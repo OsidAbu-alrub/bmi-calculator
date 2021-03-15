@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="editTextStyle">
+        <item name="android:layout_width">299dp</item>
+        <item name="android:layout_height">41dp</item>
+        <item name="android:inputType">textPersonName</item>
+    </style>
+
+    <style name="textViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">64dp</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:visibility">visible</item>
+    </style>
+</resources>
